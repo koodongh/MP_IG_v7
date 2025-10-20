@@ -1,0 +1,6 @@
+pylogix==0.8.12
+requests==2.27.1
+urllib3==1.26.7
+certifi==2021.10.8
+idna==2.10
+chardet==4.0.0
